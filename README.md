@@ -53,12 +53,6 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulvermav89&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvermav89&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulvermav89&show_icons=true&theme=radical)
 
 ---
 
