@@ -1,6 +1,4 @@
 
-
-<!--
 # Hi there! 👋 I'm Rahul Verma
 
 Welcome to my GitHub profile! I'm a passionate developer and engineer who loves solving problems and creating impactful solutions. Here's a glimpse into my journey, skills, and projects.
@@ -82,4 +80,4 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 
 ## ✨ Thanks for stopping by! Let's connect and build amazing things together! ✨
 
--->
+
