@@ -46,13 +46,30 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 ---
 
 ## 🚀 Tech Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)
 
+## 🌟 Key Skills
+- **C++**, **Python**  
+- **Web Technologies**: HTML, CSS, JavaScript, ReactJS, Tailwind CSS  
+- **Databases**: MySQL  
+- **Data Analysis Tools**: Excel, PowerBI  
+- **Key Concepts**: DSA (Data Structures and Algorithms), Statistical Modeling Techniques  
+
+## 📚 Coursework
+- OOP’s (Object-Oriented Programming)
+- Operating Systems
+- DBMS (Database Management Systems)
+- AI (Artificial Intelligence)
 
 ---
 
