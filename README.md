@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 - Integrated libraries like spaCy, PyPDF2, and PdfReader for content extraction and language processing.
 - **Technologies**: Python, Flask, HTML, CSS, JavaScript.
 
-### 🛒 Shopping Cart Web Application
+### 🛒 [Shopping Cart Web Application](https://ezomzy-shopping-app.vercel.app/)
 - Built a responsive shopping cart web app with features like adding/removing items and total price calculation.
 - **Technologies**: ReactJS, Tailwind CSS, Redux.
 
