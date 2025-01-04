@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 ---
 
 ## 🌱 Learning & Achievements
-- Solved 150+ DSA problems on GeeksforGeeks and LeetCode.
+- Solved 250+ DSA problems on GeeksforGeeks and LeetCode.
 - Completed courses:
   - MySQL by Great Learning.
   - MERN Stack Web Development by CodeHelp.
