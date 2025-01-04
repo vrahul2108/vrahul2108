@@ -18,12 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 
 ---
 
-## 💼 Experience
-### System Engineer - Effortech Technology
-- Debugged API failures using Linux/Unix commands and conducted root cause analysis to resolve issues.
-- Monitored system performance and performed API testing using Postman to validate functionality.
-- Managed and optimized large datasets with SQL for actionable insights.
-- Automated mobile application processes using Appium to enhance efficiency.
 
 ---
 
