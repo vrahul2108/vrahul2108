@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Rahul Verma
 
 Welcome to my GitHub profile! I'm a passionate developer and engineer who loves solving problems and creating impactful solutions. Here's a glimpse into my journey, skills, and projects.
@@ -9,12 +8,12 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 - 🎓 **Education**: 
   - Master of Computer Applications, G.L. Bajaj Institute of Technology & Management (2022-2024) | CGPA: 8.06
   - Bachelor of Science in Mathematics & Computer Science, University of Allahabad (2019-2022) | CGPA: 8.95
-- 💻 **Current Role**: System Engineer at Effortech Technology (May 2023 - Present)
+
 - 🔭 **Areas of Expertise**: 
   - Debugging APIs, system performance analysis, and root cause identification.
   - Database management and optimization with SQL.
   - Automation using Appium and testing APIs with Postman.
-  - Web development with ReactJS, Tailwind CSS, and Flask.
+  - Web development with ReactJS, Tailwind CSS, Flask, Node.js, and Express.js.
 - 🎯 **Goals**: Build scalable applications and delve deeper into AI and statistical modeling.
 
 ---
@@ -43,6 +42,11 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 - Built a responsive shopping cart web app with features like adding/removing items and total price calculation.
 - **Technologies**: ReactJS, Tailwind CSS, Redux.
 
+### 💬 [ConnectNow - Real-time Chat Application](#)
+- Developed a real-time chat application that allows users to communicate instantly with features like live messaging, user status updates, and seamless interaction.
+- Implemented JWT authentication for secure login and used Socket.IO for real-time communication, with a responsive UI built using React.js.
+- **Technologies**: JavaScript, React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT.
+
 ---
 
 ## 🚀 Tech Stack
@@ -55,13 +59,21 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer who loves 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23FF8C00?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010001?style=for-the-badge&logo=socket-dot-io&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)
 
 ## 🌟 Key Skills
 - **C++**, **Python**  
 - **Web Technologies**: HTML, CSS, JavaScript, ReactJS, Tailwind CSS  
-- **Databases**: MySQL  
+- **Backend Technologies**: Node.js, Express.js  
+- **Databases**: MySQL, MongoDB  
+- **Real-Time Communication**: Socket.IO  
+- **Authentication**: JWT (JSON Web Tokens)  
 - **Data Analysis Tools**: Excel, PowerBI  
 - **Key Concepts**: DSA (Data Structures and Algorithms), Statistical Modeling Techniques  
 
