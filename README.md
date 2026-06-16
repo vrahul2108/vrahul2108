@@ -77,61 +77,114 @@ Passionate about building scalable applications, solving real-world problems, an
 ![Alembic](https://img.shields.io/badge/Alembic-black?style=for-the-badge)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
----
 
+---
 # 🚀 Current Projects
 
-## 🏥 PixelInsure – Insurance Management Platform
+## 🏥 PixelInsure – Next-Generation Insurance Management Platform
 
-Developing an insurance management platform with dynamic dashboards and policy lifecycle management.
+PixelInsure is a comprehensive full-stack insurance platform designed to streamline policy lifecycle management, automate claims processing, and provide AI-powered recommendations for customers and insurers.
 
-### Features
-- Policy Management
-- Claims Handling
-- Dashboard Analytics
-- Protected Routing
-- Dynamic API Integration
-- State Management
+### ✨ Features
 
-### Tech Stack
+- Intelligent multi-step onboarding
+- AI-powered policy recommendations
+- End-to-end claims processing
+- Policy lifecycle management
+- Razorpay payment integration
+- Admin & insurer dashboards
+- JWT authentication and audit logging
 
-`Next.js` • `React` • `TypeScript` • `Redux` • `PostgreSQL` • `Docker`
+### 🛠 Tech Stack
+
+#### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- React Hook Form
+- Zod
+- Framer Motion
+- Recharts
+- ApexCharts
+
+#### Backend
+
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Asyncpg
+- Alembic
+- XGBoost
+- Scikit-Learn
+- Pandas
+- NumPy
+- PyJWT
+- Passlib
+- Razorpay
+
+#### Infrastructure
+
+- Docker
+- Docker Compose
 
 ---
 
-## 📨 Communication Platform
+## 📨 Communications Banking Platform
 
-Building a scalable communication service for managing templates and notifications.
+A scalable, high-performance backend platform for managing dynamic communication templates, event-based notifications, and partner integrations across banking and non-banking workflows.
 
-### Features
+### ✨ Features
 
-- Email Template Management
-- Event-Based Communication
-- Notification Services
-- Background Processing
-- API Integration
+- Advanced template management
+- Event-based communication and notifications
+- Multi-tenant architecture
+- Role-Based Access Control (RBAC)
+- Bulk Excel/CSV processing
+- MinIO / AWS S3 integration
+- Audit trails
+- Redis-backed background processing
 
-### Tech Stack
+### 🛠 Tech Stack
 
-`FastAPI` • `Python` • `PostgreSQL` • `Redis` • `Celery` • `SQLAlchemy` • `Alembic` • `Docker`
+#### Core
 
----
+- Python 3.10+
+- FastAPI
 
-## 🤖 AI Reconciliation Platform
+#### Database
 
-Building an AI-powered reconciliation system for insurance and financial workflows.
+- PostgreSQL
+- SQLAlchemy ORM
+- Asyncpg
+- Alembic
 
-### Features
+#### Caching & Background Processing
 
-- Document Processing
-- AI-Assisted Reconciliation
-- Automated Validation
-- Exception Handling
-- Reporting & Analytics
+- Redis
 
-### Tech Stack
+#### Storage
 
-`Python` • `Machine Learning` • `PostgreSQL` • `Pandas` • `NumPy`
+- MinIO
+- AWS S3 (Boto3)
+
+#### Data Processing
+
+- Pandas
+- Openpyxl
+
+#### Security
+
+- JWT Authentication
+- RBAC
+- Session Management
+
+#### Infrastructure
+
+- Docker
+- Docker Compose
 
 ---
 
